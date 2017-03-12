@@ -1,12 +1,11 @@
-#Set our working directory. 
-#This helps avoid confusion if our working directory is 
-#not our site because of other projects we were 
-#working on at the time. 
-setwd("C:/Users/JackiePennings/Desktop/Personal/personal_site")
+#at the beginning of session, click on setwd string
+setwd("C:/Users/mj/Desktop/mj website/personal_site")
 
-#render your sweet site. 
+
+#at the beginning of session click on next line and hit run. then only run render after each edit
 library("rmarkdown")
+#render your sweet site.
 rmarkdown::render_site()
 
-getwd()
+
 

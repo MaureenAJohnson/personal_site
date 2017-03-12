@@ -4,5 +4,5 @@ title: "Maureen Johnson"
 
 Welcome to my website. I am just beginning to work on the site so please bear with me!
 
-![](girl.bike.street.jpg)  
+![](girl-bike-street.jpg)  
 
